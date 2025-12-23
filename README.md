@@ -1,20 +1,53 @@
-# Javier Romero | AI Governance & Prompt Engineer
+Javier Romero | AI Governance & Prompt Engineering Specialist
 
-> **Bridging the gap between High-Stakes Legal Compliance, Tactical Security, and Large Language Models.**
+Strategic Advisory | Legal Compliance | Operational Security
 
-As a professional with 20+ years of experience in International Law (Human Rights) and Strategic Security, I specialize in engineering prompts that are not only "smart" but **legally and ethically robust**.
+Executive Summary
 
-## 🚀 Technical Core
-- **AI Governance:** Translating complex treaties (Geneva/Vienna Conventions) into model guardrails.
-- **Red Teaming:** Adversarial testing to identify policy violations and hallucinations.
-- **RAG Architecture:** Implementing Retrieval-Augmented Generation for zero-hallucination legal advisory.
-- **Logic Design:** Advanced Chain-of-Thought (CoT) and Few-Shot calibration.
+Strategic professional with over 20 years of experience in International Law, Human Rights, and Security Operations. Specialized in the engineering of high-stakes prompts, focusing on the alignment of Large Language Models (LLMs) with rigorous legal frameworks and ethical standards. Expert in translating complex normative bodies into machine-executable logic, ensuring model reliability, and mitigating adversarial risks in sensitive environments.
 
-## 📁 Repository Highlights
-- [Core Methodology](./core-methodology/): System instructions and CoT logic.
-- [RAG Implementation](./advanced-implementations/): Protocol-based advisory systems.
-- [Red Teaming Logs](./security-and-safety/): Stress-testing the "Ticking Time Bomb" scenario.
+Core Technical Competencies
 
-## ✉️ Contact
-- **LinkedIn:** [Insert your Link]
-- **Location:** Raleigh, NC (Open to Global Roles)
+AI Governance & Compliance
+
+Normative Translation: Systematic conversion of international treaties (e.g., Geneva and Vienna Conventions) into model system instructions and operational guardrails.
+
+Risk Mitigation: Development of safety architectures to prevent hallucinations and ensure adherence to strict regulatory environments.
+
+Advanced Prompt Engineering
+
+Logic Architecture: Design of complex Chain-of-Thought (CoT) sequences for auditable decision-making processes.
+
+Calibration: Implementation of Few-Shot learning techniques to standardize model outputs according to expert legal and tactical criteria.
+
+Adversarial Testing (Red Teaming)
+
+Vulnerability Assessment: Execution of stress tests to identify model weaknesses, biases, and potential policy violations.
+
+Security Optimization: Designing robust instructions to resist jailbreaking and unauthorized data extraction.
+
+Portfolio Structure
+
+I. Core Methodology
+
+Detailed documentation on system instruction design, reasoning frameworks, and logical delimitation.
+
+II. RAG Implementations
+
+Case studies on Retrieval-Augmented Generation applied to official protocols and consular protection manuals.
+
+III. Security & Safety Logs
+
+Comprehensive reports on adversarial testing, including the "Ticking Time Bomb" ethical-legal stress test.
+
+Professional Experience Background
+
+International Law & Diplomacy: Extensive history in consular protection and diplomatic liaison.
+
+Security Strategy: Background in military sciences and tactical analysis applied to legal-operational counseling.
+
+Contact Information
+
+LinkedIn: [Insert your profile link here]
+
+Location: Raleigh, NC (Available for global and remote senior roles)
