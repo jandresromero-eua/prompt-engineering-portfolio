@@ -26,10 +26,10 @@ Strategic professional with over 20 years of experience in International Law, Hu
 ### [I. Core Methodology](case-studies/core-methodology/core-methodology_en.md)
 Detailed documentation on system instruction design, reasoning frameworks, and logical delimitation.
 
-### [II. RAG Implementations](./advanced-implementations/)
+### [II. RAG Implementations](case-studies/advanced-implementations/rag_implementations_en.md)
 Case studies on Retrieval-Augmented Generation applied to official protocols and consular protection manuals.
 
-### [III. Security & Safety Logs](./security-and-safety/)
+### [III. Security & Safety Logs](case-studies/security-and-safety/security_safety_logs_en.md)
 Comprehensive reports on adversarial testing, including the "Ticking Time Bomb" ethical-legal stress test.
 
 ## Professional Experience Background
