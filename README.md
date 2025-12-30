@@ -37,5 +37,5 @@ Comprehensive reports on adversarial testing, including the "Ticking Time Bomb" 
 - **Security Strategy:** Background in military sciences and tactical analysis applied to legal-operational counseling.
 
 ## Contact Information
-- **LinkedIn:** [Insert your profile link here]
+- **email:** [jandresromero@gmail.com]
 - **Location:** Raleigh, NC (Available for global and remote senior roles)
