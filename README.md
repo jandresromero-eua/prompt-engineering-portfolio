@@ -23,7 +23,8 @@ Strategic professional with over 20 years of experience in International Law, Hu
 
 ## Portfolio Structure
 
-### [I. Core Methodology](./core-methodology/)
+### [I. Core Methodology](./core-methodology
+/core-methodology_en.md)
 Detailed documentation on system instruction design, reasoning frameworks, and logical delimitation.
 
 ### [II. RAG Implementations](./advanced-implementations/)
